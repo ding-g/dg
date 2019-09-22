@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix8001/pom.xml" />
         <option value="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/pom.xml" />
         <option value="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-3344/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
